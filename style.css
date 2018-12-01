@@ -1,0 +1,15 @@
+h1 {
+	color: cyan;
+}
+
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+canvas {
+ 	margin: auto;
+    width: 50%;
+	position: : inline-block!important;
+	border: 10px solid rgb(151, 149, 149);
+}
