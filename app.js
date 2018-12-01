@@ -220,5 +220,6 @@ Game.Snake = function(elementId, conf) {
  * Window Load
  */
 window.onload = function() {
-  var snake = new Game.Snake('stage', {fps: 70, size: 10});
+  var snake = new Game.Snake('stage', {fps: 70, size: 30
+});
 };
